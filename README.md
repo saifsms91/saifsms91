@@ -1,6 +1,6 @@
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/saifsms91/count.svg" />
+  <img src="https://github.com/saifsms91/saifsms91/blob/main/git.png" />
 </p>
 
 ![](https://avatars3.githubusercontent.com/u/31076519?s=460&u=1c8d9502d7ef8e69ddf8b5688c0abe1f750126e8&v=4)
