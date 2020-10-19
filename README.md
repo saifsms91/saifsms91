@@ -83,7 +83,11 @@
 
 ### Some stats
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=saifsms91&show_icons=true&theme=onedark&line_height=27" alt="saifsms91 github stats" />
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifsms91&layout=compact&theme=onedark&hide=css,html,jupyter+notebook" />
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saifsms91&repo=StormsAppiumFramework&show_owner=true&theme=onedark" />  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saifsms91&repo=e2e-cypress&show_owner=true&theme=onedark" /></p>
 
 
 ### 📫 How to reach me: ...
