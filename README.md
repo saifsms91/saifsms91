@@ -62,9 +62,24 @@
 ![MacOS](http://img.shields.io/badge/-Mac%20OS-333333?style=flat&logo=apple)
 ![Windows](http://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 
-### ⏳ I’m currently working on ...
+### ⏳ I’m currently working on Testing in below tech stack ...
 
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![GraphQL](https://img.shields.io/badge/-Graphql-333333?style=flat&logo=graphql)
+![Apollo](http://img.shields.io/badge/-Apollo-333333?style=flat&logo=graphql)
+![Microservices](http://img.shields.io/badge/-Microservices-333333?style=flat&logo=microservices)
+![AWS](http://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
 
+![React Native](http://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![IoT](http://img.shields.io/badge/-IoT-333333?style=flat&logo=iot)
+![AR](http://img.shields.io/badge/-Augumented%20Reality-333333?style=flat&logo=ar)
+
+![Docker](http://img.shields.io/badge/-Docekr-333333?style=flat&logo=docker)
 
 ### Some stats
 
