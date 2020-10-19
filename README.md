@@ -4,6 +4,7 @@
   <img src="https://profile-counter.glitch.me/saifsms91/count.svg" />
 </p>
 
+![](https://github.com/saifsms91/saifsms91/blob/main/git.png)
 
 ## Hi, I am Saif Siddiqui, a Software Tester
 
