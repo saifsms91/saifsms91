@@ -1,16 +1,35 @@
-### Hi there 👋
 
-<!--
-**saifsms91/saifsms91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+  Visitor count<br>
+</p>
 
-Here are some ideas to get you started:
+![](https://avatars3.githubusercontent.com/u/31076519?s=460&u=1c8d9502d7ef8e69ddf8b5688c0abe1f750126e8&v=4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi, I am Saif Siddiqui, a Software Tester
+
+### My specialties include..
+- Quickly learning new skills and programming languages,
+- Problem-solving,
+- Mobile Testing and IoT Testing expert,
+- Appium
+-
+
+
+### 💻 Languages I have used
+
+
+
+### 🗜 Some of the technologies I have worked with
+
+
+
+### ⏳ I’m currently working on ...
+
+
+
+### Some stats
+
+
+
+
+### 📫 How to reach me: ...
