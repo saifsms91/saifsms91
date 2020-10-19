@@ -7,12 +7,22 @@
 
 ## Hi, I am Saif Siddiqui, a Software Tester
 
+
 ### My specialties include..
 - Quickly learning new skills and programming languages,
 - Problem-solving,
 - Mobile Testing and IoT Testing expert,
 - Appium
 - Understanding of AWS
+
+### 📰 Blog Posts
+- [Interview experience with Amazon](https://mobiletestingtip.blogspot.com/2017/07/interview-experience-with-amazon-for.html)
+- [Security Testing with MobSF](https://mobiletestingtip.blogspot.com/2019/04/mobile-application-penetration-testing.html)
+- [Testing Push Notification](https://mobiletestingtip.blogspot.com/2018/01/push-notification-for-native-application.html)
+- [Mobile App Testing Strategy](https://mobiletestingtip.blogspot.com/2018/04/5-must-stepapproach-to-successful.html)
+- [How to successfully do locaization Testing](https://mobiletestingtip.blogspot.com/2016/12/quick-guide-to-internationalizationloca.html)
+
+
 
 
 ### 💻 Languages I have used, explored or did spike
