@@ -12,10 +12,17 @@
 - Problem-solving,
 - Mobile Testing and IoT Testing expert,
 - Appium
--
+- Understanding of AWS
 
 
-### 💻 Languages I have used
+### 💻 Languages I have used, explored or did spike
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+
 
 
 
