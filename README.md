@@ -107,4 +107,4 @@
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@saifsms91)
 [![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=react&logoColor=white)](https://mobiletestingtip.blogspot.com//)
 [![YouTube](http://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/user/saifsms91)
-[![StackOverflow](https://img.shields.io/badge/-Stackoverflow-ef8236?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/7826656/saif-siddiqui)
+[![StackOverflow](https://img.shields.io/badge/-Stackoverflow-ffffff?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/3282461)
