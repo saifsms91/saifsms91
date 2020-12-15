@@ -126,7 +126,7 @@ You can find my blogs at my [Website](http://mobiletestingtip.blogspot.com).
 
 ### The Developer Dictionary 🌱
 Check out my latest videos on [YouTube](https://www.youtube.com/user/saifsms91?sub_confirmation=1):
-- [GraphQL Automation | Part 1 | What is GraphQL | Difference Between GraphQL and Rest API](https://youtu.be/6PgDCw_Rc5M)
+- [GraphQL Automation | Part 1 | What is GraphQL | Difference Between GraphQL and Rest API](https://youtu.be/Q5V5SDjFEds)
 - [GraphQL API Automation with Postman | API Testing Part 2](https://youtu.be/6PgDCw_Rc5M)
 - [Beginners Manual Software Testing Tutorials](https://youtu.be/tiV4sbOwgGs)
 - [GitHub Tutorial for Beginner's |Create Repository with IDE in 8 Minutes| Simple way to use GITHUB |](https://youtu.be/ttqDR4eZSeM)
