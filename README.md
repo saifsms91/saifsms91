@@ -108,3 +108,27 @@
 [![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=react&logoColor=white)](https://mobiletestingtip.blogspot.com//)
 [![YouTube](http://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/user/saifsms91?sub_confirmation=1)
 [![StackOverflow](https://img.shields.io/badge/-Stackoverflow-ffffff?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/7826656/saif-siddiqui)
+
+<table><tr><td valign="top" width="50%">
+
+### My Digital Garden 🌱
+You can find my blogs at my [Website](http://mobiletestingtip.blogspot.com).
+- [Mobile Application Penetration Testing with MobSF](https://mobiletestingtip.blogspot.com/2019/04/mobile-application-penetration-testing.html)
+- [Migration Testing Scenario for Android and iOS](https://mobiletestingtip.blogspot.com/2019/06/migration-testing-scenario-for-android.html)
+- [Emulator/Simulator or Real Devices,The Real Spartan ?](https://mobiletestingtip.blogspot.com/2019/01/emulatorsimulator-or-real-devicesthe.html)
+- [5 must step/approach to successful mobile testing strategy:](https://mobiletestingtip.blogspot.com/2018/04/5-must-stepapproach-to-successful.html)
+- [Interview Experience with AMAZON for the role of Quality Assurance Tester](https://mobiletestingtip.blogspot.com/2017/07/interview-experience-with-amazon-for.html)
+
+
+
+</td>
+<td valign="top" width="45%">
+
+### The Developer Dictionary 🌱
+Check out my latest videos on [YouTube](https://www.youtube.com/user/saifsms91?sub_confirmation=1):
+- [GraphQL Automation | Part 1 | What is GraphQL | Difference Between GraphQL and Rest API](https://youtu.be/6PgDCw_Rc5M)
+- [GraphQL API Automation with Postman | API Testing Part 2](https://youtu.be/a-EcD1AKRag)
+- [Beginners Manual Software Testing Tutorials](https://youtu.be/tiV4sbOwgGs)
+- [GitHub Tutorial for Beginner's |Create Repository with IDE in 8 Minutes| Simple way to use GITHUB |](https://youtu.be/ttqDR4eZSeM)
+
+</td>
