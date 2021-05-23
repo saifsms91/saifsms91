@@ -16,6 +16,12 @@
 - Appium
 - Understanding of AWS
 
+### Udemy Course on Mobile Application Testing
+My course is highly experiential and you will learn the concepts in-depth through hands-on practice sessions. You will also be working on a project and understand how Mobile Application Testing Works.This course is extremely useful if you have zero knowledge of Mobile App testing and want to start from scratch.
+Link with coupon code:https://www.udemy.com/course/the-experts-secret-to-mobile-application-testing/?couponCode=MOBILETESTING
+
+Grasp advanced concepts of software testing concepts, app testing generics and much more
+
 ### 📰 Blog Posts
 - [Interview experience with Amazon](https://mobiletestingtip.blogspot.com/2017/07/interview-experience-with-amazon-for.html)
 - [Security Testing with MobSF](https://mobiletestingtip.blogspot.com/2019/04/mobile-application-penetration-testing.html)
