@@ -18,7 +18,11 @@
 
 ### Udemy Course on Mobile Application Testing
 My course is highly experiential and you will learn the concepts in-depth through hands-on practice sessions. You will also be working on a project and understand how Mobile Application Testing Works.This course is extremely useful if you have zero knowledge of Mobile App testing and want to start from scratch.
-Link with coupon code:https://www.udemy.com/course/the-experts-secret-to-mobile-application-testing/?couponCode=MOBILETESTING
+Link with coupon code 
+  - Mobile Testing: https://www.udemy.com/course/the-experts-secret-to-mobile-application-testing/?referralCode=22B02FB71E7DECDDB16A
+  - PSM 1 : https://www.udemy.com/course/scrum-master-practice-assessment/?referralCode=DDDBA8DB0B23C850C744
+  - ISTQB Mobile Testing: https://www.udemy.com/course/istqb-mobile-application-tester/?referralCode=A5895FE3B0D8C4F77A9D
+
 
 Grasp advanced concepts of software testing concepts, app testing generics and much more
 
