@@ -6,9 +6,16 @@
 
 ![](https://github.com/saifsms91/saifsms91/blob/main/git.png)
 
-## Hi, I am Saif Siddiqui, a Software Tester
+## Hi, I am Saif Siddiqui, working as a Test Lead in my current organization.
 
+I am Scrum Master certified ITIL certified ,Prince2 Foundation certified and ISTQB certified, managed multiple consumer and customer-facing applications.
 
+I have experience in leading and managing API Testing , Mobile functional, Mobile Automation, and Digital testing. Taking pride in playing key roles in delivering some of the" Highest rated Apps" around the globe with more than a million downloads in different App stores.
+
+I am also has experience in Testing IoT application some including iBeacon Sensors, Drones, Smart Watches, etc.
+
+Passionate about sharing my knowledge on various platforms,summit and conference.
+Involve in mentoring, active instructor on Udemy and content creator on youtube.
 ### My specialties include..
 - Quickly learning new skills and programming languages,
 - Problem-solving,
@@ -18,10 +25,11 @@
 
 ### Udemy Course on Mobile Application Testing
 My course is highly experiential and you will learn the concepts in-depth through hands-on practice sessions. You will also be working on a project and understand how Mobile Application Testing Works.This course is extremely useful if you have zero knowledge of Mobile App testing and want to start from scratch.
-Link with coupon code 
-  - Mobile Testing: https://www.udemy.com/course/the-experts-secret-to-mobile-application-testing/?referralCode=22B02FB71E7DECDDB16A
+Links:
+  - Mobile Application Testing: https://www.udemy.com/course/the-experts-secret-to-mobile-application-testing/?referralCode=22B02FB71E7DECDDB16A
   - PSM 1 : https://www.udemy.com/course/scrum-master-practice-assessment/?referralCode=DDDBA8DB0B23C850C744
   - ISTQB Mobile Testing: https://www.udemy.com/course/istqb-mobile-application-tester/?referralCode=A5895FE3B0D8C4F77A9D
+  - TestNg Complete Guide: https://www.udemy.com/course/testng-complete-guide-mastering-test-automation-with-testng/?referralCode=A27B4111B30A71C8A6D7
 
 
 Grasp advanced concepts of software testing concepts, app testing generics and much more
